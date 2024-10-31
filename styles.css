@@ -57,7 +57,7 @@ body {
 }
 
 
-/* Social Icons Container */
+
 .social-icons {
     display: flex;
     justify-content: center;
@@ -103,8 +103,8 @@ body {
 }
 
 .social-icons img:hover {
-    transform: scale(1.2); /* Scales the icon up by 20% */
-    animation: bounce 0.3s ease; /* Optional bounce effect */
+    transform: scale(1.2); 
+    animation: bounce 0.3s ease; 
 }
 
 @keyframes bounce {
@@ -113,20 +113,4 @@ body {
 }
 
        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
-
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-
-- add border radius
-- shuffle the layout
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
